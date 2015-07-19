@@ -165,7 +165,7 @@ thead th, thead td {
 }
 .cmn-more .plus {
 	padding-left: 32px;
-	background: url(/images/sp/icon-plus-01.gif) no-repeat 0;
+	background: url(../images/sp/icon-plus-01.gif) no-repeat 0;
 	background-size: 12px 12px;
 }
 
@@ -302,8 +302,8 @@ thead th, thead td {
 	background-repeat: no-repeat;
 	background-size: contain;
 }
-.main-visual .mv-arrow.prev a .icon { left: 10px; background-image: url(/images/sp/icon-arrow-06.png); }
-.main-visual .mv-arrow.next a .icon { right: 10px; background-image: url(/images/sp/icon-arrow-07.png); }
+.main-visual .mv-arrow.prev a .icon { left: 10px; background-image: url(..images/sp/icon-arrow-06.png); }
+.main-visual .mv-arrow.next a .icon { right: 10px; background-image: url(../images/sp/icon-arrow-07.png); }
 
 
 
@@ -353,7 +353,7 @@ thead th, thead td {
 	bottom: 15px;
 	width: 100%;
 	height: 21px;
-	background: url(/images/sp/icon-twitter-04.png) no-repeat 50% 0;
+	background: url(../images/sp/icon-twitter-04.png) no-repeat 50% 0;
 	background-size: 26px 21px;
 }
 .news-lineup .news-lineup-item .nli-block2 .triangle {
@@ -390,8 +390,8 @@ thead th, thead td {
 	width: 40px;
 	height: 40px;
 	overflow: hidden;
-	-webkit-mask: url(/images/sp/bg-circle-01.png) no-repeat;
-	mask: url(/images/sp/bg-circle-01.png) no-repeat;
+	-webkit-mask: url(../images/sp/bg-circle-01.png) no-repeat;
+	mask: url(..images/sp/bg-circle-01.png) no-repeat;
 	-webkit-mask-size: contain;
 	mask-size: contain;
 }
@@ -414,13 +414,13 @@ thead th, thead td {
 }
 .news-lineup .news-lineup-item .nli-block2 .body .txt {
 	display: inline-block;
-	background: url(/images/sp/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/sp/icon-quote-02.png) no-repeat 100% 100%;
 	background-size: 11px 7px;
 }
 .news-lineup .news-lineup-item .nli-block2 .body .txt .txt-in {
 	display: inline-block;
 	padding: 5px 15px;
-	background: url(/images/sp/icon-quote-01.png) no-repeat;
+	background: url(../images/sp/icon-quote-01.png) no-repeat;
 	background-size: 11px 7px;
 	color: #fff;
 	font-style: italic;
@@ -496,12 +496,12 @@ thead th, thead td {
 	top: 0;
 	width: 30px;
 	height: 30px;
-	background: #d9d9d9 url(/images/sp/icon-arrow-04.png) no-repeat 50% 11px;
+	background: #d9d9d9 url(../images/sp/icon-arrow-04.png) no-repeat 50% 11px;
 	background-size: 17px 10px;
 }
 .race-result .rr-tab .selected.on a:after {
 	background-color: #0014a0;
-	background-image: url(/images/sp/icon-arrow-05.png);
+	background-image: url(../images/sp/icon-arrow-05.png);
 }
 .race-result .rr-tab .selected a span {
 	display: none;
@@ -625,7 +625,7 @@ thead th, thead td {
 	display: block;
 	width: 23px;
 	height: 23px;
-	background: url(/images/sp/icon-gplus-01.png) no-repeat;
+	background: url(../images/sp/icon-gplus-01.png) no-repeat;
 	background-size: contain;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -634,7 +634,7 @@ thead th, thead td {
 	display: block;
 	width: 26px;
 	height: 21px;
-	background: url(/images/sp/icon-twitter-02.png) no-repeat;
+	background: url(../images/sp/icon-twitter-02.png) no-repeat;
 	background-size: contain;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -673,12 +673,12 @@ thead th, thead td {
 	top: 0;
 	width: 30px;
 	height: 30px;
-	background: #d9d9d9 url(/images/sp/icon-arrow-04.png) no-repeat 50% 11px;
+	background: #d9d9d9 url(../images/sp/icon-arrow-04.png) no-repeat 50% 11px;
 	background-size: 17px 10px;
 }
 .local-nav .selected.on a:after {
 	background-color: #0014a0;
-	background-image: url(/images/sp/icon-arrow-05.png);
+	background-image: url(../images/sp/icon-arrow-05.png);
 }
 .local-nav .selected a span {
 	display: none;
@@ -700,7 +700,7 @@ thead th, thead td {
 .local-nav .local-nav-in ul li a {
 	display: block;
 	padding: 10px 10px 10px 26px;
-	background: url(/images/sp/icon-arrow-01.png) no-repeat 10px 9px;
+	background: url(../images/sp/icon-arrow-01.png) no-repeat 10px 9px;
 	background-size: 9px 14px;
 	color: #fff;
 	font-size: 14px;
@@ -711,7 +711,7 @@ thead th, thead td {
 }
 .local-nav .local-nav-in ul li.cr a {
 	color: #fff000;
-	background-image: url(/images/sp/icon-arrow-02.png);
+	background-image: url(../images/sp/icon-arrow-02.png);
 }
 .local-nav .local-nav-in ul li a .small {
 	font-size: 12px;
@@ -761,12 +761,12 @@ thead th, thead td {
 	top: 10px;
 	width: 17px;
 	height: 10px;
-	background: url(/images/sp/icon-arrow-04.png) no-repeat;
+	background: url(../images/sp/icon-arrow-04.png) no-repeat;
 	background-size: contain;
 }
 .local-dd-nav dl.on dt a:after,
 .local-dd-nav dl.cr dt a:after {
-	background-image: url(/images/sp/icon-arrow-05.png);
+	background-image: url(../images/sp/icon-arrow-05.png);
 }
 .local-dd-nav dl dd {
 	display: none;
@@ -786,7 +786,7 @@ thead th, thead td {
 .local-dd-nav dl dd .sub-nav ul li a {
 	display: block;
 	padding: 10px 10px 10px 26px;
-	background: url(/images/sp/icon-arrow-01.png) no-repeat 10px 9px;
+	background: url(../images/sp/icon-arrow-01.png) no-repeat 10px 9px;
 	background-size: 9px 14px;
 	color: #fff;
 	font-size: 14px;
@@ -797,7 +797,7 @@ thead th, thead td {
 }
 .local-dd-nav dl dd .sub-nav ul li.cr a {
 	color: #fff000;
-	background-image: url(/images/sp/icon-arrow-02.png);
+	background-image: url(../images/sp/icon-arrow-02.png);
 }
 .local-dd-nav dl dd .sub-nav ul li a .small {
 	font-size: 12px;
@@ -876,7 +876,7 @@ thead th, thead td {
 	bottom: 10px;
 	width: 100%;
 	height: 18px;
-	background: url(/images/sp/icon-balloon-01.png) no-repeat 50% 0;
+	background: url(../images/sp/icon-balloon-01.png) no-repeat 50% 0;
 	background-size: 21px 18px;
 }
 .news-list-set .nls-block2 table {
@@ -896,8 +896,8 @@ thead th, thead td {
 	width: 40px;
 	height: 40px;
 	overflow: hidden;
-	-webkit-mask: url(/images/sp/bg-circle-01.png) no-repeat;
-	mask: url(/images/sp/bg-circle-01.png) no-repeat;
+	-webkit-mask: url(../images/sp/bg-circle-01.png) no-repeat;
+	mask: url(../images/sp/bg-circle-01.png) no-repeat;
 	-webkit-mask-size: contain;
 	mask-size: contain;
 }
@@ -916,13 +916,13 @@ thead th, thead td {
 }
 .news-list-set .nls-block2 table td .txt {
 	display: inline-block;
-	background: url(/images/sp/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/sp/icon-quote-02.png) no-repeat 100% 100%;
 	background-size: 11px 7px;
 }
 .news-list-set .nls-block2 table td .txt p {
 	display: inline-block;
 	padding: 5px 15px;
-	background: url(/images/sp/icon-quote-01.png) no-repeat;
+	background: url(../images/sp/icon-quote-01.png) no-repeat;
 	background-size: 11px 7px;
 	color: #fff;
 	font-style: italic;
@@ -958,7 +958,7 @@ thead th, thead td {
 }
 .news-list-set .nls-block3 .btn a .in {
 	padding-left: 23px;
-	background: url(/images/sp/icon-twitter-01.png) no-repeat 0;
+	background: url(../images/sp/icon-twitter-01.png) no-repeat 0;
 	background-size: 16px 13px;
 }
 .news-list-set .nls-block4 {
@@ -984,7 +984,7 @@ thead th, thead td {
 .news-list-set .nls-block4 .comment.no-comment .no-comment-set p {
 	position: relative;
 	padding-bottom: 25px;
-	background: url(/images/sp/icon-twitter-04.png) no-repeat 50% 100%;
+	background: url(../images/sp/icon-twitter-04.png) no-repeat 50% 100%;
 	background-size: 16px 13px;
 	color: #fff;
 	line-height: 1;
@@ -1004,7 +1004,7 @@ thead th, thead td {
 	top: 10px;
 	width: 14px;
 	height: 12px;
-	background: url(/images/sp/icon-twitter-03.png) no-repeat;
+	background: url(../images/sp/icon-twitter-03.png) no-repeat;
 	background-size: contain;
 }
 .news-list-set .nls-block4 .comment-set .head {
@@ -1016,8 +1016,8 @@ thead th, thead td {
 	width: 25px;
 	height: 25px;
 	overflow: hidden;
-	-webkit-mask: url(/images/sp/bg-circle-01.png) no-repeat;
-	mask: url(/images/sp/bg-circle-01.png) no-repeat;
+	-webkit-mask: url(../images/sp/bg-circle-01.png) no-repeat;
+	mask: url(../images/sp/bg-circle-01.png) no-repeat;
 	-webkit-mask-size: contain;
 	mask-size: contain;
 }
@@ -1088,7 +1088,7 @@ thead th, thead td {
 	width: 110px;
 	height: 110px;
 	margin: 0 auto;
-	background: url(/images/sp/bg-line-02.png) no-repeat;
+	background: url(../images/sp/bg-line-02.png) no-repeat;
 	background-size: contain;
 }
 .sched-list-set .sls-block1 .col2-1 .date .day,
@@ -1190,13 +1190,13 @@ thead th, thead td {
 }
 .comment-list-set .cls-block1 .txt {
 	display: inline-block;
-	background: url(/images/sp/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/sp/icon-quote-02.png) no-repeat 100% 100%;
 	background-size: 11px 7px;
 }
 .comment-list-set .cls-block1 .txt p {
 	display: inline-block;
 	padding: 5px 15px;
-	background: url(/images/sp/icon-quote-01.png) no-repeat;
+	background: url(../images/sp/icon-quote-01.png) no-repeat;
 	background-size: 11px 7px;
 	color: #fff;
 	font-style: italic;
@@ -1301,7 +1301,7 @@ thead th, thead td {
 	width: 28px;
 	height: 28px;
 	border: solid 1px #fff;
-	background: url(/images/sp/icon-x-02.png) no-repeat 50%;
+	background: url(../images/sp/icon-x-02.png) no-repeat 50%;
 	background-size: 14px 12px;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -1372,8 +1372,8 @@ body {
 	text-indent: -9999px;
 	overflow: hidden;
 }
-#header .header-in2 .yryh-logo a, #header .header-in2 .yryh-logo span { width: 66px; height: 31px; background-image: url(/images/sp/logo-yryh-01.png); }
-#header .header-in2 .yri-logo a, #header .header-in2 .yri-logo span { width: 172px; height: 21px; background-image: url(/images/sp/logo-yri-01.png); }
+#header .header-in2 .yryh-logo a, #header .header-in2 .yryh-logo span { width: 66px; height: 31px; background-image: url(../images/sp/logo-yryh-01.png); }
+#header .header-in2 .yri-logo a, #header .header-in2 .yri-logo span { width: 172px; height: 21px; background-image: url(../images/sp/logo-yri-01.png); }
 #header .header-in2 .sp-menu-btn {
 	position: absolute;
 	right: 11px;
@@ -1383,13 +1383,13 @@ body {
 	display: block;
 	width: 25px;
 	height: 25px;
-	background: url(/images/sp/icon-menu-01.png) no-repeat;
+	background: url(../images/sp/icon-menu-01.png) no-repeat;
 	background-size: contain;
 	text-indent: -9999px;
 	overflow: hidden;
 }
 #header .header-in2 .sp-menu-btn.cr a {
-	background-image: url(/images/sp/icon-x-01.png);
+	background-image: url(../images/sp/icon-x-01.png);
 }
 #header .sp-menu-bg {
 	position: absolute;
@@ -1448,7 +1448,7 @@ body {
 #header .global-nav dl dd .sub-nav ul li a {
 	display: block;
 	padding: 10px 10px 10px 36px;
-	background: url(/images/sp/icon-arrow-01.png) no-repeat 20px 9px;
+	background: url(../images/sp/icon-arrow-01.png) no-repeat 20px 9px;
 	background-size: 9px 14px;
 	color: #fff;
 	font-size: 15px;
@@ -1494,7 +1494,7 @@ body {
 	width: 296px;
 	height: 226px;
 	margin: 0 auto;
-	background: url(/images/sp/img-sponsor-01.gif) no-repeat;
+	background: url(../images/sp/img-sponsor-01.gif) no-repeat;
 	background-size: contain;
 }
 #footer .yri-logo {
@@ -1505,7 +1505,7 @@ body {
 	margin: 0 auto;
 	width: 61px;
 	height: 72px;
-	background: url(/images/sp/logo-yri-02.png) no-repeat;
+	background: url(../images/sp/logo-yri-02.png) no-repeat;
 	background-size: contain;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -1552,10 +1552,10 @@ body {
 	text-indent: -9999px;
 	overflow: hidden;
 }
-#footer .social .twitter a { width: 26px; height: 21px; background-image: url(/images/sp/icon-twitter-01.png); }
-#footer .social .facebook a { width: 22px; height: 23px; background-image: url(/images/sp/icon-facebook-01.png); }
-#footer .social .instagram a { width: 22px; height: 23px; background-image: url(/images/sp/icon-instagram-01.png); }
-#footer .social .youtube a { width: 21px; height: 23px; background-image: url(/images/sp/icon-youtube-01.png); }
+#footer .social .twitter a { width: 26px; height: 21px; background-image: url(../images/sp/icon-twitter-01.png); }
+#footer .social .facebook a { width: 22px; height: 23px; background-image: url(../images/sp/icon-facebook-01.png); }
+#footer .social .instagram a { width: 22px; height: 23px; background-image: url(../images/sp/icon-instagram-01.png); }
+#footer .social .youtube a { width: 21px; height: 23px; background-image: url(../images/sp/icon-youtube-01.png); }
 #footer .copyright {
 	margin-top: 30px;
 	color: #fff;
@@ -1583,7 +1583,7 @@ body {
 	width: 28px;
 	height: 28px;
 	border: solid 1px #0014a0;
-	background: #fff url(/images/sp/icon-arrow-03.png) no-repeat 50% 9px;
+	background: #fff url(../images/sp/icon-arrow-03.png) no-repeat 50% 9px;
 	background-size: 17px 10px;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -1617,7 +1617,7 @@ body {
 }
 .home-section .gallery-list .follow a .in {
 	padding: 2px 0 2px 32px;
-	background: url(/images/sp/icon-camera-01.png) no-repeat 0;
+	background: url(../images/sp/icon-camera-01.png) no-repeat 0;
 	background-size: 22px 23px;
 }
 
@@ -1679,7 +1679,7 @@ body {
 }
 .comment-section .comment-body .col2-2 .profile .descript .follow a .in {
 	padding-left: 23px;
-	background: url(/images/sp/icon-twitter-01.png) no-repeat 0;
+	background: url(../images/sp/icon-twitter-01.png) no-repeat 0;
 	background-size: 16px 13px;
 }
 .comment-section .comment-body .col2-2 .profile .descript .link {
@@ -1690,7 +1690,7 @@ body {
 }
 .comment-section .comment-body .col2-2 .profile .descript .link .in {
 	padding-left: 16px;
-	background: url(/images/sp/icon-arrow-08.png) no-repeat;
+	background: url(../images/sp/icon-arrow-08.png) no-repeat;
 	background-size: 9px 14px;
 }
 .comment-section .comment-body .col2-2 .profile .descript .link a {
@@ -1795,7 +1795,7 @@ body {
 }
 .riders-section .riders-body .col2-2 .twitter .head .title {
 	padding: 4px 0 4px 33px;
-	background: url(/images/sp/icon-twitter-02.png) no-repeat 0 1px;
+	background: url(../images/sp/icon-twitter-02.png) no-repeat 0 1px;
 	background-size: 26px 21px;
 	color: #fff;
 	font-size: 14px;
@@ -1839,8 +1839,8 @@ body {
 	width: 40px;
 	height: 40px;
 	overflow: hidden;
-	-webkit-mask: url(/images/sp/bg-circle-01.png) no-repeat;
-	mask: url(/images/sp/bg-circle-01.png) no-repeat;
+	-webkit-mask: url(../images/sp/bg-circle-01.png) no-repeat;
+	mask: url(../images/sp/bg-circle-01.png) no-repeat;
 	-webkit-mask-size: contain;
 	mask-size: contain;
 }
@@ -1858,13 +1858,13 @@ body {
 }
 .riders-section .riders-body .col2-2 .twitter .body .set table td .txt {
 	display: inline-block;
-	background: url(/images/sp/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/sp/icon-quote-02.png) no-repeat 100% 100%;
 	background-size: 11px 7px;
 }
 .riders-section .riders-body .col2-2 .twitter .body .set table td .txt p {
 	display: inline-block;
 	padding: 5px 15px;
-	background: url(/images/sp/icon-quote-01.png) no-repeat;
+	background: url(../images/sp/icon-quote-01.png) no-repeat;
 	background-size: 11px 7px;
 	color: #fff;
 	font-style: italic;
@@ -1927,7 +1927,7 @@ body {
 }
 .gallery-section .h1-social .instagram a .in {
 	padding: 2px 0 2px 32px;
-	background: url(/images/sp/icon-camera-01.png) no-repeat 0;
+	background: url(../images/sp/icon-camera-01.png) no-repeat 0;
 	background-size: 22px 23px;
 }
 
