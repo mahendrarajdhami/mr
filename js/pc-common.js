@@ -791,7 +791,7 @@ var ridersTweet = {
 var glryList = {
 	run: function() {
 		this.anim = true;
-		$.ajax({,
+		$.ajax({
 			url: "/system_sns/getInstagram.php", 
 			data: {
 				"next_max_id": glryList.id // 後述のajaxで取得したjson内にnext_max_idがあった場合、その値を送ることで次ページのデータが取得できます。
