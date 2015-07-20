@@ -19,7 +19,7 @@ img {
 	vertical-align: bottom;
 }
 a {
-	color: #0014a0;
+	color: green;
 	text-decoration: underline;
 }
 ul, ol {
@@ -92,7 +92,7 @@ thead th, thead td {
 	top: 5px;
 	width: 4px;
 	height: 4px;
-	background: #0014a0;
+	background: green;
 	border-radius: 2px;
 }
 
@@ -154,9 +154,9 @@ thead th, thead td {
 	display: block;
 	height: 32px;
 	padding-top: 15px;
-	border: solid 1px #0014a0;
+	border: solid 1px green;
 	background: #fff;
-	color: #0014a0;
+	color: green;
 	font-size: 18px;
 	font-weight: bold;
 	line-height: 1;
@@ -343,7 +343,7 @@ thead th, thead td {
 	position: relative;
 	z-index: 10;
 	padding: 15px 10px 51px;
-	background: #0014a0;
+	background: green;
 }
 .news-lineup .news-lineup-item .nli-block2:after {
 	content: "";
@@ -365,7 +365,7 @@ thead th, thead td {
 	margin-left: -9px;
 	border-top: solid 14px transparent;
 	border-right: solid 9px transparent;
-	border-bottom: solid 14px #0014a0;
+	border-bottom: solid 14px green;
 	border-left: solid 9px transparent;
 }
 .news-lineup .news-lineup-item.ptn1 .nli-block2 .body,
@@ -455,7 +455,7 @@ thead th, thead td {
 }
 .race-result .rr-title {
 	margin-bottom: 10px;
-	color: #0014a0;
+	color: green;
 	font-size: 20px;
 	font-weight: bold;
 	font-style: italic;
@@ -479,7 +479,7 @@ thead th, thead td {
 	position: relative;
 	height: 26px;
 	padding-top: 9px;
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 	font-size: 14px;
 	font-weight: bold;
@@ -500,7 +500,7 @@ thead th, thead td {
 	background-size: 17px 10px;
 }
 .race-result .rr-tab .selected.on a:after {
-	background-color: #0014a0;
+	background-color: green;
 	background-image: url(../images/sp/icon-arrow-05.png);
 }
 .race-result .rr-tab .selected a span {
@@ -518,7 +518,7 @@ thead th, thead td {
 }
 .race-result .rr-tab ul {
 	padding: 5px 0;
-	background: #0014a0;
+	background: green;
 }
 .race-result .rr-tab ul li a {
 	display: block;
@@ -537,7 +537,7 @@ thead th, thead td {
 	position: relative;
 	height: 26px;
 	padding-top: 9px;
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 	font-size: 14px;
 	font-weight: bold;
@@ -547,7 +547,7 @@ thead th, thead td {
 }
 .race-result .rr-body {
 	position: relative;
-	background: #0014a0;
+	background: green;
 }
 .race-result .rr-body .rr-set {
 	display: none;
@@ -656,7 +656,7 @@ thead th, thead td {
 	position: relative;
 	height: 21px;
 	padding-top: 9px;
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 	font-size: 14px;
 	font-weight: bold;
@@ -677,7 +677,7 @@ thead th, thead td {
 	background-size: 17px 10px;
 }
 .local-nav .selected.on a:after {
-	background-color: #0014a0;
+	background-color: green;
 	background-image: url(../images/sp/icon-arrow-05.png);
 }
 .local-nav .selected a span {
@@ -695,7 +695,7 @@ thead th, thead td {
 }
 .local-nav .local-nav-in ul {
 	padding: 5px 0;
-	background: #0014a0;
+	background: green;
 }
 .local-nav .local-nav-in ul li a {
 	display: block;
@@ -750,7 +750,7 @@ thead th, thead td {
 }
 .local-dd-nav dl.on dt a,
 .local-dd-nav dl.cr dt a {
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 }
 .local-dd-nav dl dt a:after {
@@ -778,7 +778,7 @@ thead th, thead td {
 	box-sizing: border-box;
 }
 .local-dd-nav dl dd .sub-nav {
-	background: #0014a0;
+	background: green;
 }
 .local-dd-nav dl dd .sub-nav ul {
 	padding: 5px 0;
@@ -814,7 +814,7 @@ thead th, thead td {
 .news-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 	visibility: hidden;
 }
 .news-list-set.cr {
@@ -1068,7 +1068,7 @@ thead th, thead td {
 .sched-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 	visibility: hidden;
 }
 .sched-list-set.cr {
@@ -1177,7 +1177,7 @@ thead th, thead td {
 .comment-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 }
 .comment-list-set .cls-block1 {
 	position: relative;
@@ -1351,7 +1351,7 @@ body {
 	z-index: 1050;
 	height: 52px;
 	margin: 0 auto;
-	background: #0014a0;
+	background: green;
 }
 #header .header-in2 .yryh-logo,
 #header .header-in2 .yri-logo {
@@ -1408,7 +1408,7 @@ body {
 	z-index: 1020;
 	width: 236px;
 	height: 100%;
-	background: #0014a0;
+	background: green;
 	overflow: auto;
 	visibility: hidden;
 	-webkit-overflow-scrolling: touch;
@@ -1582,7 +1582,7 @@ body {
 	display: block;
 	width: 28px;
 	height: 28px;
-	border: solid 1px #0014a0;
+	border: solid 1px green;
 	background: #fff url(../images/sp/icon-arrow-03.png) no-repeat 50% 9px;
 	background-size: 17px 10px;
 	text-indent: -9999px;
@@ -1694,7 +1694,7 @@ body {
 	background-size: 9px 14px;
 }
 .comment-section .comment-body .col2-2 .profile .descript .link a {
-	color: #0014a0;
+	color: green;
 	text-decoration: none;
 }
 .comment-section .comment-body .col2-1 {
@@ -1786,7 +1786,7 @@ body {
 .riders-section .riders-body .col2-2 .twitter {
 	margin-top: 25px;
 	padding: 10px 10px 5px;
-	background: #0014a0;
+	background: green;
 }
 .riders-section .riders-body .col2-2 .twitter .head {
 	position: relative;
@@ -1879,7 +1879,7 @@ body {
 	margin-bottom: 5px;
 }
 .teams-section .teams-body .col2-2 .imgs {
-	border: solid 3px #0014a0;
+	border: solid 3px green;
 }
 .teams-section .teams-body .col2-2 .imgs img {
 	width: 100%;

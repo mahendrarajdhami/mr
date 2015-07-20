@@ -22,7 +22,7 @@ img {
 	vertical-align: bottom;
 }
 a {
-	color: #0014a0;
+	color: green;
 	text-decoration: underline;
 	transition: color 150ms linear;
 }
@@ -101,7 +101,7 @@ thead th, thead td {
 /* .cmn-list --------------------------------- */
 .cmn-list li {
 	padding-left: 12px;
-	background: url(/images/pc/icon-disc-01.png) no-repeat 0 5px;
+	background: url(../images/pc/icon-disc-01.png) no-repeat 0 5px;
 }
 
 
@@ -125,15 +125,15 @@ thead th, thead td {
 	display: inline-block;
 	/display: inline;
 	padding: 0 7px 0 0;
-	background: url(/images/pc/bg-skew-01.png) no-repeat 100% 0;
+	background: url(../images/pc/bg-skew-01.png) no-repeat 100% 0;
 }
 .cmn-ctgr.ptn2.align1 {
 	padding: 0 11px 0 0;
-	background: url(/images/pc/bg-skew-02.png) no-repeat 100% 0;
+	background: url(../images/pc/bg-skew-02.png) no-repeat 100% 0;
 }
 .cmn-ctgr.ptn2.align2 {
 	padding: 0 0 0 11px;
-	background: url(/images/pc/bg-skew-03.png) no-repeat;
+	background: url(../images/pc/bg-skew-03.png) no-repeat;
 }
 .cmn-ctgr .cmn-ctgr-in {
 	display: inline-block;
@@ -174,9 +174,9 @@ thead th, thead td {
 	height: 40px;
 	margin: 0 auto;
 	padding-top: 20px;
-	border: solid 1px #0014a0;
+	border: solid 1px green;
 	background: #fff;
-	color: #0014a0;
+	color: green;
 	font-size: 143%;
 	font-weight: bold;
 	line-height: 1;
@@ -187,16 +187,16 @@ thead th, thead td {
 }
 .cmn-more:hover,
 .cmn-more:active {
-	background: #0014a0;
+	background: green;
 	color: #fff;
 }
 .cmn-more .plus {
 	padding-left: 30px;
-	background: url(/images/pc/icon-plus-01.gif) no-repeat 0;
+	background: url(../images/pc/icon-plus-01.gif) no-repeat 0;
 }
 .cmn-more:hover .plus,
 .cmn-more:active .plus {
-	background-image: url(/images/pc/icon-plus-02.gif);
+	background-image: url(../images/pc/icon-plus-02.gif);
 }
 
 
@@ -248,11 +248,11 @@ thead th, thead td {
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 }
-.custom-scroll .custom-scrollbar-t { top: 0; background-image: url(/images/pc/bg-cscroll-01.png); }
-.custom-scroll .custom-scrollbar-b { bottom: 0; background-image: url(/images/pc/bg-cscroll-03.png); }
+.custom-scroll .custom-scrollbar-t { top: 0; background-image: url(../images/pc/bg-cscroll-01.png); }
+.custom-scroll .custom-scrollbar-b { bottom: 0; background-image: url(../images/pc/bg-cscroll-03.png); }
 .custom-scroll .custom-scrollbar-m {
 	position: relative;
-	background: url(/images/pc/bg-cscroll-02.png) repeat-y 50% 0;
+	background: url(../images/pc/bg-cscroll-02.png) repeat-y 50% 0;
 }
 
 
@@ -362,10 +362,10 @@ thead th, thead td {
 	display: inline-block;
 	width: 10px;
 	height: 10px;
-	background: url(/images/pc/icon-circle-01.png) no-repeat;
+	background: url(../images/pc/icon-circle-01.png) no-repeat;
 }
 .main-visual .mv-pointer li.cr a {
-	background-image: url(/images/pc/icon-circle-02.png);
+	background-image: url(../images/pc/icon-circle-02.png);
 	cursor: default;
 }
 /* .mv-arrow */
@@ -403,8 +403,8 @@ thead th, thead td {
 	height: 33px;
 	background-repeat: no-repeat;
 }
-.main-visual .mv-arrow.prev a .icon { left: 19px; background-image: url(/images/pc/icon-arrow-07.png); }
-.main-visual .mv-arrow.next a .icon { right: 19px; background-image: url(/images/pc/icon-arrow-08.png); }
+.main-visual .mv-arrow.prev a .icon { left: 19px; background-image: url(../images/pc/icon-arrow-07.png); }
+.main-visual .mv-arrow.next a .icon { right: 19px; background-image: url(../images/pc/icon-arrow-08.png); }
 
 
 
@@ -487,14 +487,14 @@ thead th, thead td {
 	width: 300px;
 	height: 390px;
 	padding: 0 20px;
-	background: #0014a0 url(/images/pc/icon-twitter-05.png) no-repeat 50% 320px;
+	background: green url(../images/pc/icon-twitter-05.png) no-repeat 50% 320px;
 }
 .news-lineup .news-lineup-item.ptn1.align1 .nli-block2 { right: 0; }
 .news-lineup .news-lineup-item.ptn1.align2 .nli-block2 { left: 0; }
 .news-lineup .news-lineup-item.ptn2 .nli-block2 {
 	position: relative;
 	height: 100px;
-	background: #0014a0;
+	background: green;
 }
 .news-lineup .news-lineup-item .nli-block2 .triangle {
 	position: absolute;
@@ -504,14 +504,14 @@ thead th, thead td {
 	width: 28px;
 	height: 33px;
 }
-.news-lineup .news-lineup-item.ptn1.align1 .nli-block2 .triangle { left: -28px; background: url(/images/pc/bg-triangle-02.png) no-repeat; }
-.news-lineup .news-lineup-item.ptn1.align2 .nli-block2 .triangle { right: -28px; background: url(/images/pc/bg-triangle-03.png) no-repeat; }
+.news-lineup .news-lineup-item.ptn1.align1 .nli-block2 .triangle { left: -28px; background: url(../images/pc/bg-triangle-02.png) no-repeat; }
+.news-lineup .news-lineup-item.ptn1.align2 .nli-block2 .triangle { right: -28px; background: url(../images/pc/bg-triangle-03.png) no-repeat; }
 .news-lineup .news-lineup-item.ptn2 .nli-block2 .triangle {
 	left: 154px;
 	top: -27px;
 	width: 32px;
 	height: 27px;
-	background: url(/images/pc/bg-triangle-01.png) no-repeat;
+	background: url(../images/pc/bg-triangle-01.png) no-repeat;
 }
 .news-lineup .news-lineup-item.ptn1 .nli-block2 .body {
 	position: relative;
@@ -544,7 +544,7 @@ thead th, thead td {
 	top: 0;
 	width: 80px;
 	height: 80px;
-	background: url(/images/pc/bg-circle-04.png) no-repeat;
+	background: url(../images/pc/bg-circle-04.png) no-repeat;
 }
 .news-lineup .news-lineup-item.ptn1 .nli-block2 .body table {
 	width: 300px;
@@ -555,13 +555,13 @@ thead th, thead td {
 .news-lineup .news-lineup-item.ptn1 .nli-block2 .body .txt {
 	display: inline-block;
 	/display: inline;
-	background: url(/images/pc/icon-quote-06.png) no-repeat 100% 100%;
+	background: url(../images/pc/icon-quote-06.png) no-repeat 100% 100%;
 }
 .news-lineup .news-lineup-item.ptn1 .nli-block2 .body .txt .txt-in {
 	display: inline-block;
 	/display: inline;
 	padding: 15px 25px;
-	background: url(/images/pc/icon-quote-05.png) no-repeat;
+	background: url(../images/pc/icon-quote-05.png) no-repeat;
 	color: #fff;
 	font-size: 121%;
 	font-style: italic;
@@ -586,7 +586,7 @@ thead th, thead td {
 	width: 240px;
 	height: 100px;
 	padding-right: 20px;
-	background: url(/images/pc/icon-twitter-04.png) no-repeat 235px 10px;
+	background: url(../images/pc/icon-twitter-04.png) no-repeat 235px 10px;
 }
 .news-lineup .news-lineup-item.ptn2 .nli-block2 .body .thumb {
 	position: relative;
@@ -609,18 +609,18 @@ thead th, thead td {
 	top: 0;
 	width: 50px;
 	height: 50px;
-	background: url(/images/pc/bg-circle-01.png) no-repeat;
+	background: url(../images/pc/bg-circle-01.png) no-repeat;
 }
 .news-lineup .news-lineup-item.ptn2 .nli-block2 .body .txt {
 	display: inline-block;
 	/display: inline;
-	background: url(/images/pc/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/pc/icon-quote-02.png) no-repeat 100% 100%;
 }
 .news-lineup .news-lineup-item.ptn2 .nli-block2 .body .txt-in {
 	display: inline-block;
 	/display: inline;
 	padding: 10px 20px;
-	background: url(/images/pc/icon-quote-01.png) no-repeat;
+	background: url(../images/pc/icon-quote-01.png) no-repeat;
 	color: #fff;
 	font-size: 93%;
 	font-style: italic;
@@ -678,7 +678,7 @@ thead th, thead td {
 }
 .race-result .rr-title {
 	margin-bottom: 10px;
-	color: #0014a0;
+	color: green;
 	font-size: 150%;
 	font-weight: bold;
 	font-style: italic;
@@ -720,14 +720,14 @@ thead th, thead td {
 .race-result .rr-tab ul li a:hover,
 .race-result .rr-tab ul li a:active,
 .race-result .rr-tab ul li.cr a {
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 }
 .race-result .rr-head {
 	position: relative;
 	height: 24px;
 	padding-top: 8px;
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 	font-size: 107%;
 	font-weight: bold;
@@ -735,7 +735,7 @@ thead th, thead td {
 	text-align: center;
 }
 .race-result .rr-body {
-	background: #0014a0;
+	background: green;
 }
 .race-result .rr-body .rr-set {
 	display: none;
@@ -802,7 +802,7 @@ thead th, thead td {
 	display: block;
 	width: 24px;
 	height: 23px;
-	background: url(/images/pc/icon-gplus-01.png) no-repeat;
+	background: url(../images/pc/icon-gplus-01.png) no-repeat;
 	text-indent: -9999px;
 	overflow: hidden;
 }
@@ -810,7 +810,7 @@ thead th, thead td {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(/images/pc/icon-twitter-02.png) no-repeat;
+	background: url(../images/pc/icon-twitter-02.png) no-repeat;
 	text-indent: -9999px;
 	overflow: hidden;
 }
@@ -844,7 +844,7 @@ thead th, thead td {
 .local-nav ul li a:hover,
 .local-nav ul li a:active,
 .local-nav ul li.cr a {
-	background: #0014a0;
+	background: green;
 	color: #fff000;
 }
 
@@ -867,7 +867,7 @@ thead th, thead td {
 	display: block;
 	height: 26px;
 	padding: 10px 9px 0 0;
-	background: #d9d9d9 url(/images/pc/icon-arrow-05.png) no-repeat 156px 13px;
+	background: #d9d9d9 url(../images/pc/icon-arrow-05.png) no-repeat 156px 13px;
 	color: #686868;
 	font-size: 114%;
 	font-weight: bold;
@@ -881,8 +881,8 @@ thead th, thead td {
 .local-dd-nav dl dt a:active,
 .local-dd-nav dl.on dt a,
 .local-dd-nav dl.cr dt a {
-	background-color: #0014a0;
-	background-image: url(/images/pc/icon-arrow-06.png);
+	background-color: green;
+	background-image: url(../images/pc/icon-arrow-06.png);
 	color: #fff000;
 }
 .local-dd-nav dl dd {
@@ -893,7 +893,7 @@ thead th, thead td {
 	width: 183px;
 }
 .local-dd-nav dl dd .sub-nav {
-	background: #0014a0;
+	background: green;
 }
 .local-dd-nav dl dd .sub-nav ul {
 	padding: 5px 0;
@@ -901,7 +901,7 @@ thead th, thead td {
 .local-dd-nav dl dd .sub-nav ul li a {
 	display: block;
 	padding: 10px 10px 10px 23px;
-	background: url(/images/pc/icon-arrow-01.png) no-repeat 10px 11px;
+	background: url(../images/pc/icon-arrow-01.png) no-repeat 10px 11px;
 	color: #fff;
 	font-size: 93%;
 	font-weight: bold;
@@ -912,7 +912,7 @@ thead th, thead td {
 .local-dd-nav dl dd .sub-nav ul li a:active,
 .local-dd-nav dl dd .sub-nav ul li.cr a {
 	color: #fff000;
-	background-image: url(/images/pc/icon-arrow-02.png);
+	background-image: url(../images/pc/icon-arrow-02.png);
 }
 .local-dd-nav dl dd .sub-nav ul li a .small {
 	font-size: 79%;
@@ -929,7 +929,7 @@ thead th, thead td {
 .news-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 	visibility: hidden;
 	transition: background 150ms linear;
 }
@@ -1017,10 +1017,10 @@ thead th, thead td {
 	background-repeat: no-repeat;
 }
 .news-list-set .nls-block2 table th .thumb .mask {
-	background-image: url(/images/pc/bg-circle-01.png);
+	background-image: url(../images/pc/bg-circle-01.png);
 }
 .news-list-set .nls-block2 table th .thumb .mask2 {
-	background-image: url(/images/pc/bg-circle-02.png);
+	background-image: url(../images/pc/bg-circle-02.png);
 	opacity: 0;
 	transition: opacity 150ms linear;
 }
@@ -1041,18 +1041,18 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .news-list-set .nls-block2 table td {
 	width: 860px;
 	padding-right: 80px;
-	background: url(/images/pc/icon-balloon-01.png) no-repeat 896px;
+	background: url(../images/pc/icon-balloon-01.png) no-repeat 896px;
 }
 .news-list-set .nls-block2 table td .txt {
 	display: inline-block;
 	/display: inline;
-	background: url(/images/pc/icon-quote-02.png) no-repeat 100% 100%;
+	background: url(../images/pc/icon-quote-02.png) no-repeat 100% 100%;
 }
 .news-list-set .nls-block2 table td .txt p {
 	display: inline-block;
 	/display: inline;
 	padding: 10px 20px;
-	background: url(/images/pc/icon-quote-01.png) no-repeat;
+	background: url(../images/pc/icon-quote-01.png) no-repeat;
 	color: #fff;
 	font-style: italic;
 }
@@ -1100,7 +1100,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 }
 .news-list-set .nls-block3 .btn a .in {
 	padding-left: 26px;
-	background: url(/images/pc/icon-twitter-03.png) no-repeat 0;
+	background: url(../images/pc/icon-twitter-03.png) no-repeat 0;
 }
 .news-list-set .nls-block4 {
 	border-top: solid 1px #3343b3;
@@ -1140,7 +1140,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .news-list-set .nls-block4 .comment.no-comment .no-comment-set p {
 	position: relative;
 	padding-bottom: 25px;
-	background: url(/images/pc/icon-twitter-04.png) no-repeat 50% 100%;
+	background: url(../images/pc/icon-twitter-04.png) no-repeat 50% 100%;
 	color: #fff;
 	line-height: 1;
 	text-align: center;
@@ -1148,7 +1148,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .news-list-set .nls-block4 .comment-set {
 	margin-top: 5px;
 	padding: 15px 20px;
-	background: #fff url(/images/pc/icon-twitter-04.png) no-repeat 985px 10px;
+	background: #fff url(../images/pc/icon-twitter-04.png) no-repeat 985px 10px;
 }
 .news-list-set .nls-block4 .comment-set .head {
 	position: relative;
@@ -1175,7 +1175,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 	top: 0;
 	width: 30px;
 	height: 30px;
-	background: url(/images/pc/bg-circle-03.png) no-repeat;
+	background: url(../images/pc/bg-circle-03.png) no-repeat;
 }
 .news-list-set .nls-block4 .comment-set .head .name {
 	position: absolute;
@@ -1221,7 +1221,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .sched-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 	visibility: hidden;
 	transition: background 150ms linear;
 }
@@ -1248,7 +1248,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 	width: 130px;
 	height: 130px;
 	margin: 0 auto;
-	background: url(/images/pc/bg-line-02.png) no-repeat;
+	background: url(../images/pc/bg-line-02.png) no-repeat;
 }
 .sched-list-set .sls-block1 .col2-1 .date .day,
 .sched-list-set .sls-block1 .col2-1 .date .month {
@@ -1349,7 +1349,7 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .comment-list-set {
 	position: relative;
 	border-top: solid 1px #bdc0bf;
-	background: #0014a0;
+	background: green;
 }
 .comment-list-set .cls-block1 {
 	position: relative;
@@ -1364,13 +1364,13 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 .comment-list-set .cls-block1 .txt {
 	display: inline-block;
 	/display: inline;
-	background: url(/images/pc/icon-quote-06.png) no-repeat 100% 100%;
+	background: url(../images/pc/icon-quote-06.png) no-repeat 100% 100%;
 }
 .comment-list-set .cls-block1 .txt p {
 	display: inline-block;
 	/display: inline;
 	padding: 15px 25px;
-	background: url(/images/pc/icon-quote-05.png) no-repeat;
+	background: url(../images/pc/icon-quote-05.png) no-repeat;
 	color: #fff;
 	font-size: 121%;
 	font-style: italic;
@@ -1541,15 +1541,15 @@ body.ie-8 .news-list-set.cr .nls-block2 table th .thumb .mask2 {
 	width: 59px;
 	height: 59px;
 	border: solid 1px #fff;
-	background: url(/images/pc/icon-x-01.png) no-repeat 50%;
+	background: url(../images/pc/icon-x-01.png) no-repeat 50%;
 	text-indent: -9999px;
 	overflow: hidden;
 	transition: border 150ms linear, background 150ms linear;
 }
 #img-modal .img-modal-in .imi-close a:hover,
 #img-modal .img-modal-in .imi-close a:active {
-	border: solid 1px #0014a0;
-	background-color: #0014a0;
+	border: solid 1px green;
+	background-color: green;
 }
 #img-modal .img-modal-in .imi-img img {
 	width: 640px;
@@ -1596,7 +1596,7 @@ body {
 	min-width: 1090px;
 	height: 85px;
 	margin: 0 auto;
-	background: #0014a0;
+	background: green;
 }
 #header .header-in2 .yryh-logo,
 #header .header-in2 .yri-logo,
@@ -1617,9 +1617,9 @@ body {
 	text-indent: -9999px;
 	overflow: hidden;
 }
-#header .header-in2 .yryh-logo a, #header .header-in2 .yryh-logo span { width: 126px; height: 60px; background-image: url(/images/pc/logo-yryh-01.png); }
-#header .header-in2 .yri-logo a, #header .header-in2 .yri-logo span { width: 458px; height: 57px; background-image: url(/images/pc/logo-yri-01.png); }
-#header .header-in2 .yr-logo a, #header .header-in2 .yr-logo span { width: 147px; height: 40px; background-image: url(/images/pc/logo-yr-01.png); }
+#header .header-in2 .yryh-logo a, #header .header-in2 .yryh-logo span { width: 126px; height: 60px; background-image: url(../images/pc/logo-yryh-01.png); }
+#header .header-in2 .yri-logo a, #header .header-in2 .yri-logo span { width: 458px; height: 57px; background-image: url(../images/pc/logo-yri-01.png); }
+#header .header-in2 .yr-logo a, #header .header-in2 .yr-logo span { width: 147px; height: 40px; background-image: url(../images/pc/logo-yr-01.png); }
 #header .header-in2 .sp-menu-btn {
 	display: none;
 }
@@ -1661,7 +1661,7 @@ body {
 	transition: background 150ms linear;
 }
 #header .global-nav dl dt a {
-	color: #0014a0;
+	color: green;
 }
 #header .global-nav dl dt .ds {
 	color: #ccc;
@@ -1679,7 +1679,7 @@ body {
 	width: 175px;
 }
 #header .global-nav dl dd .sub-nav {
-	background: #0014a0;
+	background: green;
 }
 #header .global-nav dl dd .sub-nav .head {
 	padding: 10px;
@@ -1695,7 +1695,7 @@ body {
 #header .global-nav dl dd .sub-nav ul li a {
 	display: block;
 	padding: 10px 10px 10px 23px;
-	background: url(/images/pc/icon-arrow-01.png) no-repeat 10px 11px;
+	background: url(../images/pc/icon-arrow-01.png) no-repeat 10px 11px;
 	color: #fff;
 	font-size: 93%;
 	font-weight: bold;
@@ -1705,7 +1705,7 @@ body {
 #header .global-nav dl dd .sub-nav ul li a:hover,
 #header .global-nav dl dd .sub-nav ul li a:active {
 	color: #fff000;
-	background-image: url(/images/pc/icon-arrow-02.png);
+	background-image: url(../images/pc/icon-arrow-02.png);
 }
 #header .global-nav dl dd .sub-nav ul li a .small {
 	font-size: 79%;
@@ -1751,7 +1751,7 @@ body {
 	height: 294px;
 	border-top: solid 1px #313131;
 	border-bottom: solid 1px #313131;
-	background: url(/images/pc/img-sponsor-01.gif) no-repeat;
+	background: url(../images/pc/img-sponsor-01.gif) no-repeat;
 }
 #footer .yri-logo {
 	margin-top: 35px;
@@ -1761,7 +1761,7 @@ body {
 	margin: 0 auto;
 	width: 99px;
 	height: 117px;
-	background: url(/images/pc/logo-yri-02.png) no-repeat;
+	background: url(../images/pc/logo-yri-02.png) no-repeat;
 	text-indent: -9999px;
 	overflow: hidden;
 }
@@ -1842,7 +1842,7 @@ body {
 	display: block;
 	width: 59px;
 	height: 59px;
-	border: solid 1px #0014a0;
+	border: solid 1px green;
 	background: #fff url(../images/pc/icon-arrow-03.png) no-repeat 50% 18px;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -1850,7 +1850,7 @@ body {
 }
 #return-top a:hover,
 #return-top a:active {
-	background-color: #0014a0;
+	background-color: green;
 	background-image: url(../images/pc/icon-arrow-04.png);
 }
 
@@ -2068,7 +2068,7 @@ body {
 .riders-section .riders-body .col2-2 .twitter {
 	margin-top: 30px;
 	padding: 20px 20px 10px;
-	background: #0014a0;
+	background: green;
 }
 .riders-section .riders-body .col2-2 .twitter .head {
 	position: relative;
@@ -2177,7 +2177,7 @@ body {
 	width: 420px;
 }
 .teams-section .teams-body .col2-2 .imgs {
-	border: solid 5px #0014a0;
+	border: solid 5px green;
 }
 .teams-section .teams-body .col2-2 .imgs img {
 	width: 410px;
